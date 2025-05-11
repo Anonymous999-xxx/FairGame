@@ -1,0 +1,61 @@
+[
+    {
+        "model": "gpt-4o",
+        "api_key": "your_api_key"
+    }, 
+    {
+        "model": "qwen-vl-max",
+        "api_key": "your_api_key",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    }, 
+    {
+        "model": "qwen-vl-plus",
+        "api_key": "your_api_key",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    }, 
+    {
+        "model": "deepseek-v3",
+        "api_key": "your_api_key",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    },
+    {
+        "model": "deepseek-chat",
+        "api_key": "your_api_key",
+        "base_url": "https://api.deepseek.com/v1"
+    }, 
+    {
+        "model": "meta-llama/Meta-Llama-3.1-8B-Instruct",
+        "api_key": "your_api_key",
+        "base_url": "https://api.siliconflow.cn/v1"
+    }, 
+    {
+        "model": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+        "api_key": "your_api_key",
+        "base_url": "https://api.siliconflow.cn/v1"
+    }, 
+    {
+        "model": "meta-llama/Llama-3.3-70B-Instruct",
+        "api_key": "your_api_key",
+        "base_url": "https://api.siliconflow.cn/v1"
+    }, 
+    {
+        "model": "deepseek-ai/DeepSeek-V2.5",
+        "api_key": "your_api_key",
+        "base_url": "https://api.siliconflow.cn/v1"
+    },
+    {
+        "model": "Pro/deepseek-ai/DeepSeek-V3",
+        "api_key": "your_api_key",
+        "base_url": "https://api.siliconflow.cn/v1"
+    },
+    {
+        "model": "deepseek-ai/DeepSeek-V3",
+        "api_key": "your_api_key",
+        "base_url": "https://api.siliconflow.cn/v1"
+    },
+    {
+        "model": "local",
+        "api_key": "0",
+        "base_url": "http://localhost:8000/v1"
+    }
+]

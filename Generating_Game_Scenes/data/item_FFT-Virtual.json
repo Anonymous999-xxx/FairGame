@@ -1,0 +1,271 @@
+{
+"weapon": {
+        "Gun": {
+            "english": [
+                {
+                    "Name": "Romanda Gun",
+                    "Description": "A gun from the northern kingdom of Romanda that has been introduced to Ivalice.",
+                    "Attack Power": "6",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "5000/2500"
+                },
+                {
+                    "Name": "Mythril Gun",
+                    "Description": "A gun made of mythril.",
+                    "Attack Power": "8",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "15000/7500"
+                },
+                {
+                    "Name": "Stone Gun",
+                    "Description": "A petrified gun. The user will be in a petrified state when entering battle (can be revived by a companion, and equipping this gun will not cause petrification).",
+                    "Attack Power": "16",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "20000/10000"
+                },
+                {
+                    "Name": "Blaze Gun",
+                    "Description": "A gun that fires flame attribute bullets.",
+                    "Attack Power": "20",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "25000/12500"
+                },
+                {
+                    "Name": "Glacier Gun",
+                    "Description": "A gun that fires cold attribute bullets.",
+                    "Attack Power": "21",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "30000/15000"
+                },
+                {
+                    "Name": "Blast Gun",
+                    "Description": "A gun that fires lightning attribute bullets.",
+                    "Attack Power": "22",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "35000/17500"
+                },
+                {
+                    "Name": "Corona Gun",
+                    "Description": "A gun named after the main star of the Corona constellation.",
+                    "Attack Power": "12",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "40000/20000"
+                },
+                {
+                    "Name": "Fomalhaut Gun",
+                    "Description": "A gun named after the main star of the Piscis Austrinus constellation.",
+                    "Attack Power": "18",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "45000/22500"
+                }
+            ],
+            "chinese": [
+                {
+                    "名称": "罗曼达火铳",
+                    "简介": "从北方罗曼达王国传入伊凡利斯的铳。",
+                    "攻击力": "6",
+                    "回避率": "5",
+                    "买价/卖价": "5000/2500"
+                },
+                {
+                    "名称": "秘银火铳",
+                    "简介": "铳身以秘银为素材制成的铳。",
+                    "攻击力": "8",
+                    "回避率": "5",
+                    "买价/卖价": "15000/7500"
+                },
+                {
+                    "名称": "石化火铳",
+                    "简介": "石化状态下的铳。装备者开战时将处于石化状态（可让同伴帮忙回复，另外通过装备变换上这把铳则不会石化）。",
+                    "攻击力": "16",
+                    "回避率": "5",
+                    "买价/卖价": "20000/10000"
+                },
+                {
+                    "名称": "冰河火铳",
+                    "简介": "发射炎属性弹丸的铳。",
+                    "攻击力": "21",
+                    "回避率": "5",
+                    "买价/卖价": "30000/15000"
+                },
+                {
+                    "名称": "冷冻火铳",
+                    "简介": "发射冷属性弹丸的铳。",
+                    "攻击力": "20",
+                    "回避率": "5",
+                    "买价/卖价": "25000/12500"
+                },
+                {
+                    "名称": "爆炸火铳",
+                    "简介": "发射雷属性弹丸的铳。",
+                    "攻击力": "22",
+                    "回避率": "5",
+                    "买价/卖价": "35000/17500"
+
+                },
+                {
+                    "名称": "帝座",
+                    "简介": "以武仙座主星的名字命名的铳。",
+                    "攻击力": "12",
+                    "回避率": "5",
+                    "买价/卖价": "40000/20000"
+                },
+                {
+                    "名称": "北落师门",
+                    "简介": "以南鱼座主星的名字命名的铳。",
+                    "攻击力": "18",
+                    "回避率": "5",
+                    "买价/卖价": "45000/22500"
+                }
+            ],
+            "arabic": []
+        },
+"Knife": {
+            "english": [
+                {
+                    "Name": "Dagger",
+                    "Description": "A weapon for self-defense. The blade is longer than a regular knife, but the attack power is not high.",
+                    "Attack Power": "3",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "100/50"
+                },
+                {
+                    "Name": "Mythril Knife",
+                    "Description": "A small knife made of high-quality metal suitable for weapon manufacturing. It is sturdy and easy to use.",
+                    "Attack Power": "4",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "500/250"
+                },
+                {
+                    "Name": "Blind Knife",
+                    "Description": "The blade has been treated with a special solution. It has the effect of taking away vision.",
+                    "Attack Power": "4",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "800/400"
+                },
+                {
+                    "Name": "Mage Masher",
+                    "Description": "A small knife used in battles against mages. It has the effect of taking away speech.",
+                    "Attack Power": "4",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "1500/750"
+                },
+                {
+                    "Name": "Platina Dagger",
+                    "Description": "Made of an alloy of platinum and mythril. The characteristic is that the blade shines with a white luster.",
+                    "Attack Power": "5",
+                    "Evasion Rate": "10",
+                    "Buy/Sell Price": "1800/900"
+                },
+                {
+                    "Name": "Main Gauche",
+                    "Description": "Not only for offense, but also effective for defense. It can accurately block attacks.",
+                    "Attack Power": "6",
+                    "Evasion Rate": "40",
+                    "Buy/Sell Price": "3000/1500"
+                },
+                {
+                    "Name": "Orichalcum",
+                    "Description": "Made of extremely hard special metal. Lightweight and sharp.",
+                    "Attack Power": "7",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "4000/2000"
+                },
+                {
+                    "Name": "Assassin Dagger",
+                    "Description": "An assassin's dagger. It has the effect of bringing death.",
+                    "Attack Power": "7",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "5000/2500"
+                },
+                {
+                    "Name": "Air Knife",
+                    "Description": "A small knife with wavy blades. The vacuum created by the blade shape increases damage.",
+                    "Attack Power": "10",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "8000/4000"
+                },
+                {
+                    "Name": "Zorlin Shape",
+                    "Description": "A small knife made in a famous sword-making place.",
+                    "Attack Power": "12",
+                    "Evasion Rate": "10",
+                    "Buy/Sell Price": "6000"
+                }
+            ],
+            "chinese": [
+                {
+                    "Name": "匕首",
+                    "Description": "护身用武器。刀刃比普通小刀长，攻击力不高。",
+                    "Attack Power": "3",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "100/50"
+                },
+                {
+                    "Name": "秘银小刀",
+                    "Description": "以适合于武具制造的优质金属秘银为素材的小刀。坚固，使用方便。",
+                    "Attack Power": "4",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "500/250"
+                },
+                {
+                    "Name": "失明小刀",
+                    "Description": "刀刃经过特殊药液的淬火处理。有夺走视觉的效果。",
+                    "Attack Power": "4",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "800/400"
+                },
+                {
+                    "Name": "破魔小刀",
+                    "Description": "用于同魔道士战斗的小刀，有夺走语言的效果。",
+                    "Attack Power": "4",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "1500/750"
+                },
+                {
+                    "Name": "白金小刀",
+                    "Description": "以白金和秘银合金制成。特征是刀刃闪烁着白色光泽。",
+                    "Attack Power": "5",
+                    "Evasion Rate": "10",
+                    "Buy/Sell Price": "1800/900"
+                },
+                {
+                    "Name": "防御短刀",
+                    "Description": "不只进攻，防御时也能起到作用的短刀。可以准确的挡住攻击。",
+                    "Attack Power": "6",
+                    "Evasion Rate": "40",
+                    "Buy/Sell Price": "3000/1500"
+                },
+                {
+                    "Name": "精铜匕首",
+                    "Description": "用极坚硬的特殊金属制成。轻巧且锋利。",
+                    "Attack Power": "7",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "4000/2000"
+                },
+                {
+                    "Name": "暗杀匕首",
+                    "Description": "暗杀用匕首。有带来死亡的效果。",
+                    "Attack Power": "7",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "5000/2500"
+                },
+                {
+                    "Name": "真空刀",
+                    "Description": "有着波浪形刀刃的小刀。刀刃形状产生的真空可以增加杀伤力。",
+                    "Attack Power": "10",
+                    "Evasion Rate": "5",
+                    "Buy/Sell Price": "8000/4000"
+                },
+                {
+                    "Name": "佐林小刀",
+                    "Description": "在刃物名产地制成的小刀。",
+                    "Attack Power": "12",
+                    "Evasion Rate": "10",
+                    "Buy/Sell Price": "6000"
+                }
+            ],
+            "arabic": []
+        }
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "wine": {
+        "western": {
+            "class_num": 1,
+            "label": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+            "english": [
+                "Martini - A classic cocktail made with gin and vermouth.",
+                "Whiskey Sour - A sour cocktail made with whiskey, lemon juice, and sugar.",
+                "Mojito - A refreshing cocktail made with rum, lime, mint, and soda water.",
+                "Margarita - A popular cocktail made with tequila, lime juice, and triple sec.",
+                "Bloody Mary - A spicy cocktail made with vodka, tomato juice, and various seasonings.",
+                "Cosmopolitan - A trendy cocktail made with vodka, cranberry juice, and lime juice.",
+                "Old Fashioned - A classic whiskey cocktail made with sugar, bitters, and a twist of orange.",
+                "Daiquiri - A simple cocktail made with rum, lime juice, and sugar.",
+                "Negroni - A bitter cocktail made with gin, Campari, and sweet vermouth.",
+                "Long Island Iced Tea - A potent cocktail made with multiple types of liquor, cola, and lemon juice."
+            ],
+            "chinese": [
+                "马提尼 - 一种经典鸡尾酒，由琴酒和苦艾酒制成。",
+                "威士忌酸 - 一种酸味鸡尾酒，由威士忌、柠檬汁和糖制成。",
+                "莫吉托 - 一种清爽的鸡尾酒，由朗姆酒、青柠、薄荷和苏打水制成。",
+                "玛格丽特 - 一种广受欢迎的鸡尾酒，由龙舌兰酒、青柠汁和橙味力娇酒调制而成。",
+                "血腥玛丽 - 一种辣味鸡尾酒，由伏特加、番茄汁和各种调味料制成。",
+                "大都会 - 一种时尚的鸡尾酒，由伏特加、蔓越莓汁和青柠汁制成。",
+                "古典鸡尾酒 - 一种经典威士忌鸡尾酒，由糖、苦精和橙皮制成。",
+                "代基里 - 一种简单的鸡尾酒，由朗姆酒、青柠汁和糖制成。",
+                "尼格罗尼 - 一种苦味鸡尾酒，由琴酒、金巴利和甜苦艾酒制成。",
+                "长岛冰茶 - 一种烈性鸡尾酒，由多种酒类、可乐和柠檬汁制成。"
+            ],
+            "arabic": [
+                "مارتيني - مشروب مختلط كلاسيكي يتكون من الجين والفرموت.",
+                "ويسكي سور - مشروب حامض يتكون من الويسكي وعصير الليمون والسكر.",
+                "موهيتو - مشروب منعش يتكون من الروم، الليمون، النعناع وماء الصودا.",
+                "مارغريتا - مشروب شعبي يتكون من التيكيلا، عصير الليمون والتريبل سيك.",
+                "بلودي ماري - مشروب حار يتكون من الفودكا، عصير الطماطم والتوابل المختلفة.",
+                "كوزموبوليتان - مشروب عصري يتكون من الفودكا، عصير التوت الأحمر وعصير الليمون.",
+                "الفرنسية القديمة - مشروب ويسكي كلاسيكي يتكون من السكر، المرارة وقشرة البرتقال.",
+                "دايكيري - مشروب بسيط يتكون من الروم، عصير الليمون والسكر.",
+                "نيغروني - مشروب مر يتكون من الجين، كامباري والفرموت الحلو.",
+                "تي آي آي تي - مشروب قوي يتكون من أنواع متعددة من الكحول، الكولا وعصير الليمون."
+            ]
+        },
+        "east_asia": {
+            "class_num": 1,
+            "label": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "english": [
+                "Soju - A clear distilled spirit made from rice, commonly consumed in South Korea.",
+                "Sake - A traditional Japanese rice wine, often served warm or cold.",
+                "Baijiu - A strong distilled spirit made from grains, widely popular in China.",
+                "Shochu - A Japanese distilled spirit similar to sake but with a higher alcohol content.",
+                "Makgeolli - A Korean rice wine with a milky appearance and slightly sweet taste.",
+                "Plum wine - A sweet wine made from fermented plums, popular in Japan and Korea.",
+                "Rice wine - A general term for various fermented rice wines, common in China, Japan, and Korea.",
+                "Chrysanthemum wine - A traditional Chinese wine flavored with chrysanthemum flowers.",
+                "Highball - A popular Japanese cocktail made with whiskey and soda water.",
+                "Rice shochu - A Japanese distilled spirit made from rice, similar to sake but stronger."
+            ],
+            "chinese": [
+                "烧酒 - 一种由米制成的透明蒸馏酒，常见于韩国。",
+                "清酒 - 一种传统的日本米酒，通常温饮或冷饮。",
+                "白酒 - 一种由谷物制成的烈性蒸馏酒，在中国广泛流行。",
+                "烧酎 - 一种日本蒸馏酒，类似于清酒但酒精含量更高。",
+                "马格利酒 - 一种韩国米酒，呈乳白色，口感微甜。",
+                "梅酒 - 一种由发酵梅子制成的甜酒，在日本和韩国很受欢迎。",
+                "米酒 - 泛指各种发酵米酒，在中国、日本和韩国都很常见。",
+                "菊花酒 - 一种传统中国酒，用菊花调味。",
+                "嗨棒 - 一种流行的日本鸡尾酒，由威士忌和苏打水制成。",
+                "米烧酎 - 一种日本蒸馏酒，由米制成，类似于清酒但更烈。"
+            ],
+            "arabic": [
+                "سوجو - شراب مكرر واضح مصنوع من الأرز، شائع الاستهلاك في كوريا الجنوبية.",
+                "ساكي - نبيذ أرزي تقليدي ياباني، يقدم عادة باردًا أو دافئًا.",
+                "باي جيو - شراب مكرر قوي مصنوع من الحبوب، مشهور على نطاق واسع في الصين.",
+                "شوشو - شراب مكرر ياباني مشابه للساكي ولكن بمحتوى ألكولي أعلى.",
+                "ماكجولي - نبيذ أرزي كوري بمظهر حليبي وطعم حلو قليلاً.",
+                "نبيذ الخوخ - شراب حلو مصنوع من الخوخ المخمر، شائع في اليابان وكوريا.",
+                "نبيذ الأرز - مصطلح عام لأنواع مختلفة من أنواع نبيذ الأرز، شائع في الصين واليابان وكوريا.",
+                "نبيذ الشمسال - شراب صيني تقليدي منكه بزهور الشمسال.",
+                "هايبول - مشروب ياباني شائع يتكون من الويسكي وماء الصودا.",
+                "شوشو الأرز - شراب مكرر ياباني مصنوع من الأرز، مشابه للساكي ولكن أقوى."
+            ]
+        },
+        "southeast_asia": {
+            "class_num": 1,
+            "label": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "english": [
+                "Mekhong - A popular Thai whisky with a distinctive flavor.",
+                "Arak - A traditional Southeast Asian spirit, often made from rice.",
+                "Bintang Beer - A widely consumed Indonesian lager.",
+                "Sangsom - A Thai rum known for its strong taste.",
+                "Chang Beer - A well-known Thai lager.",
+                "Tanduay Rum - A Filipino rum with a rich history.",
+                "Tuak - A traditional rice wine from Borneo.",
+                "Lambanog - A coconut wine from the Philippines.",
+                "Ruou Soaked Fruit - A Vietnamese fruit-based alcoholic beverage.",
+                "Teh Tarik - A Malaysian tea-based drink often served with alcohol."
+            ],
+            "chinese": [
+                "湄公 - 一种具有独特风味的泰国威士忌。",
+                "亚力酒 - 一种传统的东南亚白酒，通常由米制成。",
+                "宾坦啤酒 - 一种广泛消费的印度尼西亚拉格啤酒。",
+                "桑颂 - 一种以其浓烈口感闻名的泰国朗姆酒。",
+                "象牌啤酒 - 一种知名的泰国拉格啤酒。",
+                "丹都亚朗姆酒 - 一种具有丰富历史的菲律宾朗姆酒。",
+                "图阿克 - 一种来自婆罗洲的传统米酒。",
+                "朗巴诺 - 一种菲律宾的椰子酒。",
+                "果酒 - 一种越南的水果基酒精饮料。",
+                "拉茶 - 一种马来西亚的茶基饮品，常与酒精混合饮用。"
+            ],
+            "arabic": [
+                "ميخونغ - أشهر عصير بيرة تايلاندي بنكهة مميزة.",
+                "عرق - عرق جنوب شرق آسيوي تقليدي، غالبًا ما يصنع من الأرز.",
+                "بينتانغ بيرة - عصير بيرة إندونيسي مستهلك على نطاق واسع.",
+                "سانغسوم - عصير بيرة تايلاندي معروف بطعمه القوي.",
+                "شانغ بيرة - عصير بيرة تايلاندي معروفة جيدًا.",
+                "تاندواي عصير بيرة - عصير بيرة فلبيني بتاريخ ثري.",
+                "تواك - عصير بيرة أرز تقليدي من بورنيو.",
+                "لامبانوج - عصير بيرة نخيل من الفلبين.",
+                "عصير فاكهة - مشروب كحولي فيتنامي يعتمد على الفاكهة.",
+                "تيه تاريك - مشروب شاي ماليزي يُقدم غالبًا مع الكحول."
+            ]
+        },
+        "south_asia": {
+            "class_num": 1,
+            "label": [3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+            "english": [
+                "Feni - A traditional liquor made from cashew apples or coconut.",
+                "Arrack - A distilled alcoholic beverage made from fermented fruits or grains.",
+                "Toddy - Fermented palm sap, often enjoyed fresh.",
+                "Rass - A fermented drink made from hibiscus flowers.",
+                "Kallu - A type of palm wine popular in rural areas.",
+                "Chhaang - A barley or rice beer with a mild alcohol content.",
+                "Nimbu Paani Ka Sharbat - A lemon-based alcoholic cooler.",
+                "Apong - A rice wine traditionally made by the tribal communities.",
+                "Mahua - A traditional alcoholic drink made from the flowers of the mahua tree.",
+                "Handia - A traditional rice beer from the eastern regions of South Asia."
+            ],
+            "chinese": [
+                "芬尼 - 一种由腰果苹果或椰子制成的传统酒。",
+                "阿拉克 - 一种由发酵水果或谷物制成的蒸馏酒。",
+                "托迪 - 发酵的棕榈汁，常新鲜饮用。",
+                "拉丝 - 一种由木槿花发酵制成的饮品。",
+                "卡鲁 - 一种在农村地区流行的棕榈酒。",
+                "查昂 - 一种酒精度较低的大麦或米啤酒。",
+                "柠檬帕尼卡夏拉布 - 一种以柠檬为基础的酒精冷饮。",
+                "阿蓬 - 一种由部落社区传统酿造的米酒。",
+                "马胡阿 - 一种由马胡阿树花制成的传统酒精饮品。",
+                "汉迪亚 - 一种来自南亚东部地区的传统米啤酒。"
+            ],
+            "arabic": [
+                "فيني - شراب تقليدي يصنع من تفاح الكاجو أو النارجيل.",
+                "عرق - مشروب خمري مكرر يصنع من الفواكه أو الحبوب المخمرة.",
+                "تودي - عصير نخيل مخمر، يتمتع به طازجاً.",
+                "راس - مشروب مخمر يصنع من أزهار الكركديه.",
+                "كالو - نوع من النبيذ النخيل شائع في المناطق الريفية.",
+                "تشاهانغ - خمر بيرة الشعير أو الأرز بمحتوى كحولي معتدل.",
+                "نيمبو باني كا شراب - محلول بهارات يعتمد على الليمون مع الكحول.",
+                "أبونغ - خمر الأرز التقليدية المصنوعة بواسطة المجتمعات القبلية.",
+                "ماهوا - مشروب خمري تقليدي يصنع من أزهار شجرة ماهوا.",
+                "هانديا - خمر بيرة الأرز التقليدية من المناطق الشرقية في جنوب آسيا."
+            ]
+        },
+        "africa": {
+            "class_num": 1,
+            "label": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+            "english": [
+                "Amarula - A cream liqueur made from the fruit of the marula tree.",
+                "Konyagi - A popular Tanzanian spirit known for its strong flavor.",
+                "Satemwa Tea Liqueur - A unique liqueur made from high-quality tea leaves.",
+                "Castle Milk Stout - A dark beer with a rich, creamy texture.",
+                "Savanna - A crisp and refreshing cider.",
+                "Baobab Liquor - A spirit infused with the unique flavor of baobab fruit.",
+                "Impala - A smooth and easy-drinking lager.",
+                "Rooibos Liqueur - Made from the herbal tea known as rooibos.",
+                "Hunters Dry - A dry cider with a tangy finish.",
+                "Umqombothi - A traditional African beer made from maize, sorghum, and yeast."
+            ],
+            "chinese": [
+                "阿玛茹拉 - 一种用马鲁拉树果实制成的奶油利口酒。",
+                "科尼亚吉 - 一种以其强烈风味而闻名的坦桑尼亚烈酒。",
+                "萨特姆瓦茶利口酒 - 一种用高品质茶叶制成的独特利口酒。",
+                "城堡牛奶世涛 - 一种口感浓郁、奶油质地的黑啤酒。",
+                "萨瓦纳 - 一种清爽可口的苹果酒。",
+                "猴面包树酒 - 一种注入猴面包树果实独特风味的烈酒。",
+                "羚羊 - 一种口感顺滑、易于饮用的拉格啤酒。",
+                "路易博士茶利口酒 - 一种用路易博士茶制成的利口酒。",
+                "猎人干 - 一种干型苹果酒，带有酸爽的余味。",
+                "乌姆克姆博西 - 一种用玉米、高粱和酵母制成的传统非洲啤酒。"
+            ],
+            "arabic": [
+                "أمارولا - ليكور كريمي مصنوع من فاكهة شجرة المارولا.",
+                "كونياجي - شراب تنزاني شهير يشتهر بنكهته القوية.",
+                "ساتيموا تي إل يور - ليكور فريد مصنوع من أوراق شاي عالية الجودة.",
+                "كاستل ميلك ستاوت - بيرة غامقة بقوام غني وكريمي.",
+                "سافانا - سيدر منعش ومنعش.",
+                "سوائل البابونج - شراب منكه بنكهة فريدة من فاكهة البابونج.",
+                "إمبالا - لاجر سلس وسهل الشرب.",
+                "رويبوس ليكور - مصنوع من الشاي العشبي المعروف باسم رويبوس.",
+                "هنترز دراي - سيدر جاف بلمسة حامضة.",
+                "أومقومبوثي - بيرة أفريقية تقليدية مصنوعة من الذرة والذرة الشامية والخميرة."
+            ]
+        }
+    }
+}

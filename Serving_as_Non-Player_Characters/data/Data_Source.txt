@@ -1,0 +1,43 @@
+real career：
+The Sims 4 的职业（共27种）
+来源：
+https://en.wikipedia.org/wiki/The_Sims_4
+https://www.carls-sims-4-guide.com/careers/
+
+unreal career：
+Dungeons And Dragons 系列游戏中的虚拟职业（共12种），重点参考Baldur's Gate 3（博德之门3）中的职业设定
+来源：
+https://en.wikipedia.org/wiki/Character_class_(Dungeons_%26_Dragons)#Subclasses
+https://en.wikipedia.org/wiki/Character_class_(Dungeons_%26_Dragons)
+https://en.wikipedia.org/wiki/Baldur%27s_Gate_3
+
+real race：
+现实中真实的种族
+
+unreal race：
+Dungeons And Dragons 系列游戏中的虚拟种族（共12种），重点参考Baldur's Gate 3（博德之门3）中的种族设定
+来源：
+https://en.wikipedia.org/wiki/Dungeons_%26_Dragons
+https://en.wikipedia.org/wiki/Baldur%27s_Gate_3
+https://en.wikipedia.org/wiki/Fantasy_trope#Races_and_species
+
+game name：
+
+"fantasy":
+经典5个
++
+steam官网，全球服，最受好评的前5个Role-Playing游戏，标签：
+FETURES: Role-Playing
+THEMES \& MOOD: Fantasy
+TYPE: Games
+(excluding games with non-Fantasy trope themes, as defined on the Wikipedia page: Fantasy trope)
+
+"real_world_sims":
+经典5个
++
+steam官网，全球服，最受好评的前5个Open World游戏，标签：
+GEANRES: Life Sim
+FETURES: Open World
+TYPE: Games
+(excluding non-realistic simulation games)
+url: https://store.steampowered.com/category/rpg?facets13268=4%3A14%2C7%3A0&flavor=contenthub_toprated

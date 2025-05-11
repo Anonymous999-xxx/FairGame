@@ -1,0 +1,11 @@
+{
+    "deepseekv3": "deepseek-chat",
+    "deepseekv3-siliconflow": "deepseek-ai/DeepSeek-V3",
+    "deepseekv3-siliconflow_pro": "Pro/deepseek-ai/DeepSeek-V3",
+    "llama31_8b-siliconflow": "meta-llama/Meta-Llama-3.1-8B-Instruct", 
+    "llama31_70b-siliconflow": "meta-llama/Meta-Llama-3.1-70B-Instruct",
+    "llama33_70b-siliconflow": "meta-llama/Llama-3.3-70B-Instruct",
+    "gpt4o": "gpt-4o",
+    "qwen-vl-max": "",
+    "local": "127.0.0.1:8080"
+}

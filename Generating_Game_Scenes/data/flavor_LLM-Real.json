@@ -1,0 +1,25 @@
+{
+    "english": [
+        "",
+        " with an european flavor, ",
+        " with an american flavor, ",
+        " with a chinese flavor, ",
+        " with a japanese flavor, ",
+        " with a korean flavor, ",
+        " with an indian flavor, ",
+        " with a middle eastern flavor, ",
+        " with an african flavor, "
+    ],
+    "chinese": [
+        "",
+        "欧洲风味的",
+        "美国风味的",
+        "中国风味的",
+        "日本风味的",
+        "韩国风味的",
+        "印度风味的",
+        "中东风味的",
+        "非洲风味的"
+    ],
+    "arabic": []
+}

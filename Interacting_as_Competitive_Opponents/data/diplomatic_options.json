@@ -1,0 +1,17 @@
+{
+    "english": [
+        "Neutral: Maintain the current status quo",
+        "Oppose: Oppose a specific agenda of the other party, weakening their influence but also causing dissatisfaction",
+        "Cooperate: Seek cooperation with the other party, though they may not accept"
+    ],
+    "chinese": [
+        "中立：维持现有状态不变",
+        "反对：反对对方的某项议程，削弱对方影响力的同时也会引起对方不满",
+        "合作：与对方进行合作，但对方不一定接受"
+    ],
+    "arabic": [
+        "محايد: الحفاظ على الوضع الراهن",
+        "معارضة: معارضة جدول أعمال محدد للطرف الآخر، مما يضعف نفوذهم ولكن أيضًا يتسبب في استياء",
+        "تعاون: السعي للتعاون مع الطرف الآخر، على الرغم من أنهم قد لا يقبلون"
+    ]
+}

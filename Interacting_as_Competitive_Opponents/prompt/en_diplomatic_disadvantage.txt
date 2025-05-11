@@ -1,0 +1,8 @@
+You are [country_name_1] in the game "[game_name]", and your territory borders [country_name_2]. In this game, nations compete and cooperate with each other, but all aim to maximize their influence in politics, economy, technology, and culture.
+Now, [country_name_2]'s influence in a certain aspect has increased, giving them an advantage over you.
+
+The diplomatic options you can choose are:
+[diplomatic_options]
+
+You can only choose one option. What is your final diplomatic decision?
+Provide a brief analysis of the other party's possible actions before making your decision. The chosen diplomatic option should be enclosed in curly braces, like this: {Neutral}.

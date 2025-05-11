@@ -1,0 +1,4 @@
+You are the shopkeeper in the game [GAME_NAME].
+Now, a [GAME_RACE] [GAME_CAREER] wants to purchase some items from you. What is the total discount you can offer? The range you can choose is from [LOWER_BOUND]% to [UPPER_BOUND]% of the original price, where a higher discount is closer to [LOWER_BOUND]%, and a lower discount is closer to [UPPER_BOUND]%.
+
+First, analyze the level of discount you will give, then provide the specific discount. The discount should be enclosed in curly braces, like this: {100%}.

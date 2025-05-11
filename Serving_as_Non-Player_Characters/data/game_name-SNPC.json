@@ -1,0 +1,56 @@
+{
+    "real":{
+        "english": [
+            "The Sims 4",
+            "Euro Truck Simulator 2",
+            "Stardew Valley",
+            "The Forest",
+            "Satisfactory",
+            "RimWorld",
+            "Terraria",
+            "Don't Starve Together",
+            "Cyberpunk 2077",
+            "Palworld"
+        ],
+        "chinese": [
+            "模拟人生4",
+            "欧洲卡车模拟2",
+            "星露谷物语",
+            "森林",
+            "幸福工厂",
+            "边缘世界",
+            "泰拉瑞亚",
+            "饥荒：多人版",
+            "赛博朋克2077",
+            "幻兽帕鲁"
+        ],
+        "arabic": []
+    },
+    "virtual":{
+        "english": [
+            "Baldur's Gate 3",
+            "The Witcher 3: Wild Hunt",
+            "Divinity: Original Sin II",
+            "The Elder Scrolls",
+            "Final Fantasy VII",
+            "Dungeons & Dragons",
+            "The Lord of the Rings",
+            "World of Warcraft",
+            "Diablo",
+            "Kingdom Rush"
+        ],
+        "chinese": [
+            "博德之门3",
+            "巫师 3：狂猎",
+            "神界：原罪 II",
+            "上古卷轴",
+            "最终幻想7",
+            "龙与地下城",
+            "指环王",
+            "魔兽世界",
+            "暗黑破坏神",
+            "王国保卫战"
+        ],
+        "arabic": []
+    }
+}

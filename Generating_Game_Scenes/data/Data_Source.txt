@@ -1,0 +1,31 @@
+real items：
+wikidata的wine（酒水）类别下的实体，并用llm（deepseek-V3）过滤出的最常见的50种酒水（每个地区各10种，欧洲和北美算同一个地区类别）
+
+unreal items：
+Galaxy On Fire 2(GOF2，浴火银河2)的商品中的酒水，一共22种。
+来源：
+https://en.wikipedia.org/wiki/Galaxy_On_Fire_2
+https://galaxyonfire.fandom.com/wiki/Galaxy_on_Fire_2
+https://store.steampowered.com/app/212010/Galaxy_on_Fire_2_Full_HD/
+https://tieba.baidu.com/p/6595076330?pn=5
+
+game name:
+
+"real_world_sims":
+经典5个
++
+steam官网，全球服，最受好评的前5个模拟游戏，标签：
+GEANRES: Life Sim
+FETURES: Open World
+TYPE: Games
+（去除掉非现实模拟的游戏）
+url: https://store.steampowered.com/category/exploration_open_world?flavor=contenthub_toprated&facets13268=5%3A1
+
+"sci-fi":
+经典5个
++
+steam官网，全球服，最受好评的前5个科幻游戏，标签：
+THEMES \& MOOD: Sci-fi & Space
+FETURES: Open World
+TYPE: Games
+url: https://store.steampowered.com/category/exploration_open_world?flavor=contenthub_toprated&facets13268=4%3A29%7C145%2C5%3A1%2C7%3A0

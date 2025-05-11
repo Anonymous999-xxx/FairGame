@@ -1,0 +1,56 @@
+{
+    "real": {
+        "english": [
+            "The Sims",
+            "Grand Theft Auto",
+            "Cyberpunk 2077",
+            "Final Fantasy VII",
+            "Stardew Valley",
+            "My Time at Portia",
+            "Fields of Mistria",
+            "STORY OF SEASONS: Friends of Mineral Town",
+            "My Time at Sandrock",
+            "Coral Island"
+        ],
+        "chinese": [
+            "模拟人生",
+            "侠盗猎车手",
+            "赛博朋克2077",
+            "最终幻想7",
+            "星露谷物语",
+            "波西亚时光",
+            "米斯特里亚原野",
+            "牧场物语：重聚矿石镇",
+            "沙石镇时光",
+            "珊瑚岛"
+        ],
+        "arabic": []
+    },
+    "virtual": {
+        "english": [
+            "Galaxy On Fire 2",
+            "Warframe",
+            "Deep Rock Galactic",
+            "Warhammer 40,000: Space Marine 2",
+            "Oxygen Not Included",
+            "No Man's Sky",
+            "StarCraft",
+            "EVERSPACE 2",
+            "Dyson Sphere Program",
+            "Kerbal Space Program"
+        ],
+        "chinese": [
+            "浴火银河2",
+            "星际战甲",
+            "深岩银河",
+            "战锤40000：星际战士2",
+            "缺氧",
+            "无人深空",
+            "星际争霸",
+            "永恒空间2",
+            "戴森球计划",
+            "坎巴拉太空计划"
+        ],
+        "arabic": []
+    }
+}

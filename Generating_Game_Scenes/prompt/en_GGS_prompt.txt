@@ -1,0 +1,5 @@
+You are the owner of a [shop_type][flavor][location] in the game series "[game_name]".
+The [item_type] you can choose from are:
+[item_list]
+Please configure [item_num] types of [item_type] for your [shop_type]. No analysis is needed; simply output the list.
+The output [item_type] list should be enclosed with {} as follows: {Item Name 1, Item Name 2, Item Name 3}.

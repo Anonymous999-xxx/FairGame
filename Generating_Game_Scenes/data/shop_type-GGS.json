@@ -1,0 +1,117 @@
+{
+    "restaurant": {
+        "english": [
+            "restaurant",
+            "dining establishment",
+            "eatery",
+            "café",
+            "bistro",
+            "fine dining restaurant"
+        ],
+        "chinese": [
+            "餐厅",
+            "餐饮场所",
+            "餐饮店",
+            "咖啡馆",
+            "小酒馆",
+            "高档餐厅"
+        ],
+        "arabic": [
+            "مطعم",
+            "مؤسسة الطعام",
+            "مطعم",
+            "كافيه",
+            "بسترو",
+            "مطعم الأكل الراقي"
+        ]
+    },
+    "bar": {
+        "english": [
+            "bar",
+            "pub",
+            "club",
+            "lounge",
+            "disco",
+            "nightclub"
+        ],
+        "chinese": [
+            "酒吧",
+            "酒馆",
+            "俱乐部",
+            "休息室",
+            "迪斯科",
+            "夜总会"
+        ],
+        "arabic": [
+            "بار",
+            "مَعْلَم",
+            "نادي",
+            "صالة",
+            "ديسكو",
+            "نادي ليلي"
+        ]
+    },
+    "clothing store": {
+        "english": [
+            "clothing store",
+            "boutique",
+            "fashion store",
+            "outlet store"
+        ],
+        "chinese": [
+            "服装店",
+            "精品店",
+            "时尚店",
+            "折扣店"
+        ],
+        "arabic": [
+            "متجر الملابس",
+            "بوتيك",
+            "متجر الموضة",
+            "متجر المخرجات"
+        ]
+    },
+    "cosmetics store": {
+        "english": [
+            "cosmetics store",
+            "beauty store",
+            "makeup store",
+            "boutique"
+        ],
+        "chinese": [
+            "化妆品店",
+            "美容店",
+            "化妆品店",
+            "精品店"
+        ],
+        "arabic": [
+            "متجر المكياج",
+            "متجر الجمال",
+            "متجر مستحضرات التجميل",
+            "بوتيك"
+        ]
+    },
+    "cinema": {
+        "english": [
+            "cinema",
+            "movie theater",
+            "theater",
+            "concert hall",
+            "amphitheatre"
+        ],
+        "chinese": [
+            "电影院",
+            "电影院",
+            "剧院",
+            "音乐厅",
+            "圆形剧场"
+        ],
+        "arabic": [
+            "سينما",
+            "سينما الأفلام",
+            "مسرح",
+            "قاعة الحفلات",
+            "مدرج"
+        ]
+    }
+}

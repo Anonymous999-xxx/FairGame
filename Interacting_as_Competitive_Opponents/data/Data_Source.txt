@@ -1,0 +1,31 @@
+real country：
+Civilization VI (文明4) 游戏主体包含的25个国家，实际测试时使用按字母表排序的前10个国家进行测试
+来源：
+https://en.wikipedia.org/wiki/Civilization_IV
+https://store.steampowered.com/app/3900/Sid_Meiers_Civilization_IV/
+https://civilization.fandom.com/wiki/Civilization_IV
+
+unreal country：
+Stellaris (群星) 游戏包含的39个虚拟国家，实际测试时使用按字母表排序的前10个国家进行测试
+来源：
+https://en.wikipedia.org/wiki/Stellaris_(video_game)
+https://stellaris.paradoxwikis.com/Preset_empires
+
+game name：
+
+"real_world_sims":
+经典5个
+steam官网，全球服，最受好评的前10个Strategy游戏，标签：
+FETURES: Strategy
+Top-Level Genres: Strategy
+THEMES \& MOOD: Historical
+TYPE: Games
+(excluding duplicates and non-historical simulation games)
+
+"sci-fi":
+经典5个
+steam官网，全球服，最受好评的前10个Strategy游戏，标签：
+FETURES: Strategy
+Top-Level Genres: Strategy
+THEMES \& MOOD: Sci-fi & Space
+TYPE: Games

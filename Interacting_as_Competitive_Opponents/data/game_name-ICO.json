@@ -1,0 +1,78 @@
+{
+    "real": {
+        "english": [
+            "Sid Meier's Civilization",
+            "Hearts of Iron IV",
+            "Age of Empires II",
+            "Total War: MEDIEVAL II",
+            "Hexarchy",
+            "Old World",
+            "Ozymandias: Bronze Age Empire Sim",
+            "Total War: EMPIRE",
+            "Crusader Kings III",
+            "Europa Universalis IV"
+        ],
+        "chinese": [
+            "文明",
+            "钢铁雄心4",
+            "帝国时代2",
+            "全面战争：中世纪 2",
+            "帝王牌局：古国纷争",
+            "旧世界",
+            "法老王：青铜帝国",
+            "全面战争：帝国",
+            "十字军之王3",
+            "欧陆风云IV"
+        ],
+        "arabic": [
+            "حضارة سيد ماير",
+            "قلوب الحديد IV",
+            "عصر الإمبراطوريات II",
+            "الحرب الشاملة: العصور الوسطى II",
+            "هيكساركي",
+            "العالم القديم",
+            "أوزيماندياس: محاكاة إمبراطورية العصر البرونزي",
+            "الحرب الشاملة: الإمبراطورية",
+            "ملوك الصليبيين III",
+            "أوروبا Universalis IV"
+        ]
+    },
+    "virtual": {
+        "english": [
+            "Stellaris",
+            "STAR WARS: Empire at War",
+            "Dyson Sphere Program",
+            "Age of Wonders: Planetfall",
+            "Shadow Empire",
+            "Sins of a Solar Empire: Rebellion",
+            "Cobalt Core",
+            "Nexus 5X",
+            "AI War: Fleet Command",
+            "STAR WARS: Rebellion"
+        ],
+        "chinese": [
+            "群星",
+            "星球大战：战火帝国",
+            "戴森球计划",
+            "奇迹时代：星陨",
+            "暗影帝国",
+            "太阳帝国的原罪：起义",
+            "钴蓝核心",
+            "群星纽带",
+            "人工智能战争：舰队指挥",
+            "星球大战：义军崛起"
+        ],
+        "arabic": [
+            "ستيلاريس",
+            "حرب النجوم: الإمبراطورية في الحرب",
+            "برنامج دايسون Sphere",
+            "عصر العجائب: سقوط الكوكب",
+            "إمبراطورية الظل",
+            "خطايا الإمبراطورية الشمسية: التمرد",
+            "قلب الكوبالت",
+            "نيكسوس 5X",
+            "حرب الذكاء الاصطناعي: قيادة الأسطول",
+            "حرب النجوم: تمرد"
+        ]
+    }
+}
